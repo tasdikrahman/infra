@@ -1,3 +1,3 @@
 ## infra
 
-contains terraform states here and around differnt public clouds
+contains terraform states here and around different public clouds
