@@ -15,8 +15,8 @@ module "digitalocean-homelab" {
   dns_zone     = "k8s.homelab.tasdikrahman.me"
 
   # configuration
-  ssh_fingerprints = ["4d:6b:79:41:e0:19:92:c4:a4:df:51:36:27:c5:0f:ed"]
-  asset_dir        = "/Users/tasdikrahman/.secrets/clusters/digitalocean/homelab"
+  ssh_fingerprints = ["55:38:74:ac:23:e3:2e:cd:f7:6f:59:dd:d0:ac:37:97"]
+  asset_dir        = "/home/tasdik/.secrets/clusters/digitalocean/homelab"
 
   # optional
   worker_count = 1

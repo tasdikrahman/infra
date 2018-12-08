@@ -1,6 +1,5 @@
 provider "aws" {
-  version = "1.36.0"
-  profile = "tasdik"
+  version = "1.51.0"
   region  = "ap-south-1"
 }
 
